@@ -1,1 +1,24 @@
-
+{
+"database": [ 
+{
+      "name": "sachin", 
+      "pass": "123",
+      "pic_url": "",
+      "rank": "", 
+      "battalion": "",
+      "category": "", 
+      "batch_year": "",
+      "experience": ""
+},
+{
+      "name": "sac", 
+      "pass": "1234",
+      "pic_url": "",
+      "rank": "", 
+      "battalion": "",
+      "category": "", 
+      "batch_year": "",
+      "experience": ""
+}
+]
+}
