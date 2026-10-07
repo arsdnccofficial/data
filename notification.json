@@ -1,10 +1,14 @@
 {
-"notifications": [ 
-{
+  "notifications": [
+    {
       "msg": "hello welcome to our website.",
       "date": "07/10/26",
       "added_by": "sachin"
+    },
+    {
+      "msg": "testing 123",
+      "date": "10/10/26",
+      "added_by": "Sachin Yadav"
+    }
+  ]
 }
-]
-}
-
