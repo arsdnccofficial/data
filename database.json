@@ -21,6 +21,17 @@
       "batch_year": "2024",
       "experience": "",
       "camps": ""
+    },
+    {
+      "name": "Sachin",
+      "pass": "1234",
+      "pic_url": "",
+      "rank": "",
+      "battalion": "",
+      "category": "",
+      "batch_year": "",
+      "experience": "great.. experience....it is best",
+      "camps": "CATC,RDC,AAC,EBSB,SNIC"
     }
   ]
 }
