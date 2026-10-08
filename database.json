@@ -4,14 +4,14 @@
       "name": "SACHIN YADAV",
       "pass": "Sac@hin",
       "pic_url": "",
-      "rank": "",
-      "battalion": "",
-      "category": "",
-      "batch_year": "",
+      "rank": "CPL",
+      "battalion": "7 DBN",
+      "category": "SD",
+      "batch_year": "2024",
       "experience": "",
-      "camps": ""
-    },    
-   {
+      "camps": "CATC"
+    },
+    {
       "name": "UDAYDEEP",
       "pass": "12345678",
       "pic_url": "",
@@ -781,7 +781,7 @@
       "experience": "",
       "camps": ""
     },
-   {
+    {
       "name": "ANSHIKA SHAKYA",
       "pass": "12345678",
       "pic_url": "",
@@ -893,6 +893,3 @@
     }
   ]
 }
-
-
-
