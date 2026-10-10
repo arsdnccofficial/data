@@ -890,6 +890,16 @@
       "batch_year": "",
       "experience": "",
       "camps": ""
+    },
+    {
+      "name": "sac",
+      "pass": "12345678",
+      "pic_url": "",
+      "rank": "",
+      "battalion": "",
+      "category": "",
+      "batch_year": "",
+      "experience": ""
     }
   ]
 }
