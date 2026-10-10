@@ -58,13 +58,13 @@
     {
       "name": "ROHIT DAS",
       "pass": "12345678",
-      "pic_url": "https://i.ibb.co/2Y8L7dtr/c0618ed099ff.jpg",
+      "pic_url": "https://i.ibb.co/F4xyPm7N/c0618ed099ff.jpg",
       "rank": "SUO",
       "battalion": "7 DBN",
       "category": "SD",
       "batch_year": "2024",
       "experience": "",
-      "camps": "AITSC"
+      "camps": "CATC,AITSC"
     },
     {
       "name": "PRIYRANJAN YADAV",
@@ -75,7 +75,7 @@
       "category": "SD",
       "batch_year": "2024",
       "experience": "It has been wonderful experience for me in this prestigious ARSD NCC, were I got the opportunity to explore the things, I want to become in the future.",
-      "camps": "CYCLOTHON, IDC, AAC"
+      "camps": "CYCLOTHON,IDC,AAC,CATC"
     },
     {
       "name": "AYUSH KUMAR GUPTA",
