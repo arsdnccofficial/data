@@ -1,6 +1,10 @@
 {
   "sangharsh": {
-    "active": false,
+    "active": true,
+    "date": "2026-10-13",
+    "time": "08:00",
+    "rulebook_url": "",
+    "whatsapp_url": "https://bbuhb",
     "added_by": "SACHIN YADAV"
   },
   "enrollment": {
